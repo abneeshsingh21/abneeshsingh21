@@ -74,9 +74,9 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&v=1)
 ---
 
 ## 🔥 Contribution Streak
