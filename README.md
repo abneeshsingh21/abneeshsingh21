@@ -1,84 +1,71 @@
-# 👋 Hi, I'm Abneesh Singh
+<h1 align="center">Hi 👋, I'm Abneesh Singh</h1>
+<h3 align="center">🚀 AI Engineer | System Builder | Creator of EPL</h3>
 
-🚀 B.Tech CSE (AI/ML) Student | AI Engineer | System Builder  
-💡 Creator of EPL (English Programming Language)  
-🧠 Building Advanced AI Systems & Cyber Intelligence Platforms  
-
----
-
-## ⚡ About Me
-- 🔭 Currently working on **AI Assistants (IRA, Aarii) & Autonomous Systems**
-- 🧠 Building **production-grade AI + ML + System-level tools**
-- 💻 Strong in **Python, C++, Java, TypeScript**
-- ⚙️ Focused on **performance, scalability & real-world systems**
-- 🎯 Goal: Build **powerful AI products used at scale**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full+Stack+Developer;System+Architect;Building+Real+World+AI+Systems&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧠 My Major Projects
+## 🧠 About Me
+- 🎓 B.Tech CSE (AI/ML)
+- 💡 Creator of **EPL (English Programming Language)**
+- 🤖 Building **AI Assistants (IRA, Aarii)**
+- 🔐 Working on **Cyber Intelligence Platform (N-CIIA)**
+- ⚡ Focus: Real-world, scalable, high-performance systems
+
+---
+
+## 🚀 Projects
 
 ### 🔹 EPL (English Programming Language)
-> A production-ready programming language built using Python & C  
-- Natural language-based coding  
-- Compiler-level implementation  
-- Focus on simplicity + power  
-
----
+> A powerful programming language built using Python & C
 
 ### 🔹 AI Assistant (IRA)
-> Human-like AI voice assistant  
-- Emotion-aware interaction  
-- Real-time response system  
-- Task automation + memory system  
+> Human-like assistant with emotion + memory + automation
 
----
+### 🔹 Hybrid Fake News Detector
+> 96.46% accuracy using ML + AI + Web verification
 
-### 🔹 Hybrid Fake News Detector (96.46% Accuracy)
-> Advanced ML + AI verification system  
-- 5-model ensemble  
-- Gemini AI + Web verification  
-- Streamlit + FastAPI + SQLite  
-
----
-
-### 🔹 N-CIIA (Cyber Intelligence Platform)
-> High-performance cybersecurity investigation system  
-- Packet analysis + forensic tools  
-- Multi-language architecture (C++, Python, Go, Rust)  
-- Designed for real-world usage  
+### 🔹 N-CIIA
+> Advanced Cybersecurity Investigation System
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `C++` `Java` `TypeScript` `SQL`
-
-**AI/ML:**  
-`Scikit-learn` `NLP` `LLMs` `Ensemble Models`
-
-**Web & Tools:**  
-`React` `Flask` `FastAPI` `Streamlit`  
-
-**Systems:**  
-`Linux` `Networking` `Cybersecurity`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,react,flask,fastapi,linux,git" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=radical)
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abneesh-singh001  
-- 💻 GitHub: https://github.com/abneeshsingh21  
-- 📧 Email: singhabneesh250@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abneesh-singh001"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:singhabneesh250@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-## ⚡ Vision
-> "I don't just build projects. I build systems that think, scale, and evolve."
+## ⚡ Quote
+
+> "I build systems that don’t just run — they think."
