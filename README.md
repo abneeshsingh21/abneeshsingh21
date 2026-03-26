@@ -99,12 +99,7 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 </div>
 
 ---
