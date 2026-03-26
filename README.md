@@ -86,7 +86,8 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
   <h2>📈 GitHub Analytics</h2>
 </div>
 
-<!-- Interactive GitHub Snake -->
+<!-- Interactive GitHub Snake (Uncomment after GitHub Action runs successfully!) -->
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg">
@@ -95,18 +96,15 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
   </picture>
 </div>
 <br/>
+-->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abneeshsingh21&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abneeshsingh21&bg_color=0D1117&color=00E5FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="60%" />
 </div>
 
 ---
