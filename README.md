@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
   <a href="https://abneeshsingh21.github.io/portfolio-abneesh/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_ENTER_THE_3D_CYBERPUNK_PORTFOLIO-00E5FF?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="3D Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_3D_CYBERPUNK_PORTFOLIO-ENTER_SIMULATION-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=111111" alt="3D Portfolio" />
   </a>
 </div>
 <br/>
