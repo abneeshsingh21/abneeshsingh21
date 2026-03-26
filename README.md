@@ -86,8 +86,7 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
   <h2>📈 GitHub Analytics</h2>
 </div>
 
-<!-- Interactive GitHub Snake (Uncomment after GitHub Action runs successfully!) -->
-<!--
+<!-- Interactive GitHub Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg">
@@ -96,7 +95,6 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
   </picture>
 </div>
 <br/>
--->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
