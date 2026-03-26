@@ -1,122 +1,109 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abneesh%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">🚀 AI Engineer | System Builder | Creator of EPL</h2>
+<h1 align="center">Abneesh Singh</h1>
+<h3 align="center">AI Engineer • System Builder • Creator of EPL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Intelligent+Systems;AI+Engineer+%7C+Full+Stack+Developer;Creator+of+EPL+Language;Cyber+Intelligence+Builder&center=true&width=600&height=45">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Active-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Builder-Advanced-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE (AI/ML)
-- 💡 Creator of **EPL (English Programming Language)**
-- 🤖 Developing **AI Assistants (IRA, Aarii)**
-- 🔐 Building **Cyber Intelligence System (N-CIIA)**
-- ⚡ Focus: **Real-world AI + scalable systems**
+- 🎓 B.Tech CSE (AI/ML)  
+- 💡 Creator of **EPL (English Programming Language)**  
+- 🤖 Building **AI Assistants (IRA, Aarii)**  
+- 🔐 Developing **Cyber Intelligence Platform (N-CIIA)**  
+- ⚡ Focused on **real-world, scalable AI systems**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 EPL (English Programming Language)
-<p>
-  <img src="https://via.placeholder.com/800x300/0f2027/ffffff?text=EPL+Programming+Language" />
-</p>
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
 - Natural language-based programming  
 - Built using Python + C  
-- Designed for simplicity + power  
+- Designed for simplicity + performance  
 
 ---
 
 ### 🤖 AI Assistant (IRA)
-<p>
-  <img src="https://via.placeholder.com/800x300/203a43/ffffff?text=AI+Assistant+IRA" />
-</p>
+![AI](https://img.shields.io/badge/AI-Human--like-blue)
 
-- Human-like interaction  
-- Emotion-aware responses  
-- Task automation + memory system  
+- Emotion-aware interaction  
+- Memory + task execution  
+- Real-time intelligent responses  
 
 ---
 
 ### 📰 Hybrid Fake News Detector
-<p>
-  <img src="https://via.placeholder.com/800x300/2c5364/ffffff?text=Fake+News+Detector" />
-</p>
+![Accuracy](https://img.shields.io/badge/Accuracy-96.46%25-brightgreen)
 
-- 96.46% accuracy  
-- ML Ensemble + AI verification  
-- Streamlit + FastAPI + SQLite  
+- ML Ensemble system  
+- AI + Web verification  
+- Explainable predictions  
 
 ---
 
 ### 🔐 N-CIIA Cyber Intelligence Platform
-<p>
-  <img src="https://via.placeholder.com/800x300/000000/ffffff?text=Cyber+Intelligence+System" />
-</p>
+![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
 
 - Digital investigation system  
 - Packet analysis + forensics  
-- Multi-language architecture  
+- High-performance architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,react,flask,fastapi,linux,git" />
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![C++](https://img.shields.io/badge/C++-Advanced-black)
+![Java](https://img.shields.io/badge/Java-Intermediate-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
+
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-red)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact)
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21)
 
 ---
 
 ## 🎯 What I Offer
 
 - 🤖 AI/ML System Development  
-- 🌐 Full Stack Web Apps (React + Backend)  
-- ⚡ Automation & Intelligent Systems  
+- 🌐 Full Stack Web Applications  
+- ⚡ Automation & Intelligent Tools  
 - 🔐 Cybersecurity & Data Analysis  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abneesh-singh001">
-    <img src="https://img.shields.io/badge/LinkedIn-Abneesh%20Singh-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:singhabneesh250@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/abneesh-singh001  
+- 💻 GitHub: https://github.com/abneeshsingh21  
+- 📧 Email: singhabneesh250@gmail.com  
 
 ---
 
-## ⚡ Personal Brand Statement
+## ⚡ Statement
 
 > I build intelligent systems that combine AI, performance, and real-world impact.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
