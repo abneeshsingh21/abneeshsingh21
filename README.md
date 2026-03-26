@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:141414&height=250&section=header&text=Abneesh%20Singh&fontSize=70&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20System%20Builder%20•%20Cybersecurity&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:141414&height=250&section=header&text=Abneesh%20Singh&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20System%20Builder%20•%20Cybersecurity&descAlignY=58&descAlign=50&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=🚀+Architecting+Real-World+AI+Systems;🧠+Developing+Human-Like+AI+Assistants;🔐+Cybersecurity+%2B+Intelligence+Systems;⚡+Performance,+Scalability,+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Architecting+Real-World+AI+Systems;🧠+Developing+Human-Like+AI+Assistants;🔐+Cybersecurity+%2B+Intelligence+Systems;⚡+Performance,+Scalability,+%26+Innovation" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
   <h2>🌌 My Orbit</h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Personal%20Computer.png" alt="Computer" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="45" height="45" />
 </div>
 
 I am a dedicated **AI Engineer** and **System Architect**, driven by the challenge of creating production-level software. With a unique focus on bridging AI with system-level engineering, I strive to build tech that pushes boundaries. 
@@ -86,17 +86,27 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
   <h2>📈 GitHub Analytics</h2>
 </div>
 
+<!-- Interactive GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<br/>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abneeshsingh21&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9D" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abneeshsingh21&bg_color=0D1117&color=00FF9D&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abneeshsingh21&bg_color=0D1117&color=00E5FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
