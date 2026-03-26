@@ -7,12 +7,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Architecting+Real-World+AI+Systems;🧠+Developing+Human-Like+AI+Assistants;🔐+Cybersecurity+%2B+Intelligence+Systems;⚡+Performance,+Scalability,+%26+Innovation" alt="Typing SVG" />
   </a>
 </div>
-
+<br/>
 <div align="center">
   <a href="https://abneeshsingh21.github.io/portfolio-abneesh/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=120&text=❖%20LAUNCH%203D%20CYBER%20PORTFOLIO%20❖&fontColor=00E5FF&fontSize=32&desc=Experience%20the%20Interactive%20WebGL%20Architecture&descAlignY=75&descSize=16&descColor=ffffff" alt="Launch 3D Portfolio" width="100%"/>
+    <img src="https://img.shields.io/badge/VIEW_THE_3D_PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=0D1117" alt="3D Portfolio" />
   </a>
 </div>
+<br/>
 
 <div align="center">
   <p><i>"I don't just write code, I build systems that solve real-world problems."</i></p>
