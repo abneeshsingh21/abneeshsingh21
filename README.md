@@ -2,9 +2,9 @@
 <h3 align="center">AI Engineer • System Builder • Creator of EPL</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Builder-Advanced-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Advanced-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Production%20Ready-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -15,61 +15,49 @@
 - 💡 Creator of **EPL (English Programming Language)**  
 - 🤖 Building **AI Assistants (IRA, Aarii)**  
 - 🔐 Developing **Cyber Intelligence Platform (N-CIIA)**  
-- ⚡ Focused on **real-world, scalable AI systems**
+- ⚡ Focused on **real-world AI systems**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 EPL (English Programming Language)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-
+`Python` `C` `Compiler Design`  
 - Natural language-based programming  
-- Built using Python + C  
-- Designed for simplicity + performance  
+- Designed for simplicity + power  
 
 ---
 
 ### 🤖 AI Assistant (IRA)
-![AI](https://img.shields.io/badge/AI-Human--like-blue)
-
+`Python` `LLM` `Automation`  
 - Emotion-aware interaction  
-- Memory + task execution  
-- Real-time intelligent responses  
+- Real-time assistant system  
 
 ---
 
 ### 📰 Hybrid Fake News Detector
-![Accuracy](https://img.shields.io/badge/Accuracy-96.46%25-brightgreen)
-
-- ML Ensemble system  
-- AI + Web verification  
-- Explainable predictions  
+`Machine Learning` `NLP` `Streamlit`  
+- 96.46% accuracy  
+- ML + AI + Web verification  
 
 ---
 
 ### 🔐 N-CIIA Cyber Intelligence Platform
-![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
-
+`Cybersecurity` `C++` `Python`  
 - Digital investigation system  
 - Packet analysis + forensics  
-- High-performance architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-black)
-![Java](https://img.shields.io/badge/Java-Intermediate-red)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Flask](https://img.shields.io/badge/Flask-Backend-black)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-Advanced-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-Intermediate-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square"/>
+</p>
 
 ---
 
@@ -90,9 +78,9 @@
 ## 🎯 What I Offer
 
 - 🤖 AI/ML System Development  
-- 🌐 Full Stack Web Applications  
-- ⚡ Automation & Intelligent Tools  
-- 🔐 Cybersecurity & Data Analysis  
+- 🌐 Full Stack Web Development  
+- ⚡ Automation Systems  
+- 🔐 Cybersecurity Solutions  
 
 ---
 
@@ -104,6 +92,6 @@
 
 ---
 
-## ⚡ Statement
+## ⚡ Personal Statement
 
-> I build intelligent systems that combine AI, performance, and real-world impact.
+> I build intelligent systems that are scalable, efficient, and real-world ready.
