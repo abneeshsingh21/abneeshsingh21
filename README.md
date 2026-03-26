@@ -1,72 +1,97 @@
-<h1 align="center">Hi there, I'm Abneesh Singh 👋</h1>
-<h3 align="center">AI Engineer | System Builder | Innovator</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Abneesh%20Singh!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20System%20Builder%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=62" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/abneeshsingh21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer;System+Architect;Full+Stack+Developer;Cybersecurity+%2B+AI+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Building powerful AI products and real-world impactful systems. My goal is to become a top AI/system engineer and build transformative AI startups.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abneesh-singh001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:singhabneesh250@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+real-world+AI+systems;System-level+thinking+(not+just+coding);Developing+human-like+AI+assistants;Cybersecurity+%2B+Intelligence+Systems" alt="Typing SVG" /></a>
+</div>
 
 ---
 
-### 💡 Core Strengths
-- 🧠 **Building real-world AI systems:** Focused on practical, high-impact intelligent solutions.
-- ⚡ **Performance & Scalability:** Engineering systems that handle real-world loads efficiently.
-- 🔐 **Cybersecurity + Intelligence:** Merging security paradigms with AI capabilities.
-- 🤖 **Human-like AI:** Developing immersive, emotion-aware assistant experiences.
-- 🏗️ **System-level Thinking:** Looking beyond just writing code to architecting multi-language ecosystems.
+### 👨‍💻 About Me
+* 🎓 **Education:** B.Tech in Computer Science (AI/ML)
+* 📍 **Location:** India
+* 🎯 **Current Focus:** Building powerful AI products & real-world impactful systems.
+* 💡 **What I do:** AI/ML system development, full-stack AI applications, automation tools, backend systems, and cybersecurity solutions.
+* 🚀 **Fun Fact:** I created my own programming language (**EPL**) and a human-like AI assistant (**IRA**).
 
 ---
 
-### 🚀 Major Projects (My Biggest Assets)
+### 🛠️ Tech Stack & Skills
+
+<details open>
+  <summary><b>💻 Programming Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>⚙️ Frameworks & Tools</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>🧠 AI / ML & Domains</b></summary>
+  <br/>
+  <ul>
+    <li><b>AI/ML:</b> NLP, Ensemble Models, Model Optimization, Real-world ML systems</li>
+    <li><b>Other Domains:</b> Cybersecurity, System Design, Backend Engineering, Multi-language architecture mindset</li>
+  </ul>
+</details>
+
+---
+
+### 🔥 Major Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h4><a href="#">🧠 EPL (English Programming Language)</a></h4>
-      <p>A completely unique, production-level concept bringing programming to natural language.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 EPL (English Programming Language)</h3>
+      <p>A production-level, natural language-based programming language built from scratch.</p>
       <ul>
-        <li><b>Tech:</b> Python + C</li>
-        <li><b>Impact:</b> Lowers the barrier to entry for software creation.</li>
+        <li><b>Tech:</b> Python, C</li>
+        <li><b>Highlight:</b> Unique, standout project with production-oriented language design.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h4><a href="#">🤖 IRA / Aarii</a></h4>
-      <p>A truly human-like AI assistant with memory, emotion-aware responses, and task execution.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 IRA / Aarii (AI Assistant)</h3>
+      <p>A human-like assistant with emotion-aware responses, memory system, and task execution capability.</p>
       <ul>
-        <li><b>Tech:</b> Flask + React + Groq API</li>
-        <li><b>Impact:</b> Beyond simple chatbots, built for dynamic interactions.</li>
+        <li><b>Tech:</b> Flask, React, Groq API</li>
+        <li><b>Highlight:</b> True human-like interaction & contextual memory.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4><a href="#">📰 Hybrid Fake News Detector</a></h4>
-      <p>An ensemble ML pipeline achieving <b>96.46% accuracy</b> in detecting misinformation.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 Hybrid Fake News Detector</h3>
+      <p>A high-accuracy (96.46%) ML ensemble system detecting fake news with 8000 TF-IDF features.</p>
       <ul>
         <li><b>Tech:</b> Streamlit, FastAPI, SQLite, Gemini AI, GNews API</li>
-        <li><b>Specs:</b> 5-model ensemble with TF-IDF (8000 features)</li>
+        <li><b>Highlight:</b> 5-model ML ensemble.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h4><a href="#">🔐 N-CIIA (Cyber Intelligence Platform)</a></h4>
-      <p>High-performance cybersecurity system for packet capture and forensics.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 N-CIIA (Cyber Intelligence Platform)</h3>
+      <p>A high-performance cybersecurity platform for packet capture and forensics.</p>
       <ul>
-        <li><b>Tech:</b> C++, Python, Go / Rust, Java</li>
-        <li><b>Impact:</b> Production-oriented, multi-language system architecture.</li>
+        <li><b>Tech:</b> C++, Python, Go/Rust, Java</li>
+        <li><b>Highlight:</b> Production-oriented, multi-language system design.</li>
       </ul>
     </td>
   </tr>
@@ -74,51 +99,29 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-#### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-#### 🧠 AI / ML & Domains
-- **AI/ML:** Machine Learning, NLP, Ensemble Models, Model Optimization, Real-world ML Systems
-- **Engineering:** System Design, Backend Engineering, Multi-language Architectures
-- **Security:** Cybersecurity
-
----
-
-### 📈 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&theme=ocean_dark&hide_border=true&bg_color=0D1117" alt="Abneesh's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abneeshsingh21&theme=ocean_dark&hide_border=true&background=0D1117" alt="Abneesh's GitHub Streak" width="48%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&theme=ocean_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 ---
 
-### 💼 What I Offer
-I am open to freelance opportunities, full-time roles, and challenging projects involving:
-> **AI/ML System Development | Full-Stack AI Applications | Automation Tools | Backend Systems | Cybersecurity Solutions**
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:singhabneesh250@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abneesh-singh001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/abneeshsingh21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abneeshsingh21&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <i>"Building real-world impactful systems. Let's create something amazing together!"</i>
 </p>
-<p align="center">Made with ❤️ by an AI Engineer</p>
