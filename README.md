@@ -61,6 +61,7 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
       <h3>🧠 EPL (English Programming Language)</h3>
       <p><i>A production-level, natural language-based programming language built from scratch.</i></p>
       <b>Tech Stack:</b> <img src="https://skillicons.dev/icons?i=py,c&theme=dark" height="20" align="center"/><br/><br/>
+      <b>Links:</b> <a href="https://abneeshsingh21.github.io/EPL/playground.html">Playground</a> | <a href="https://abneeshsingh21.github.io/EPL/">Documentation</a><br/><br/>
       <b>Impact:</b> Demonstrates deep understanding of compilers, interpreters, and system-level bridging. A massive standout project.
     </td>
     <td width="50%" valign="top">
