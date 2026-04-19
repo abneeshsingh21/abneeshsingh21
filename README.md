@@ -23,9 +23,6 @@
 <div align="center">
   <h2>🌌 My Orbit</h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="45" height="45" />
-</div>
 
 I am a dedicated **AI Engineer** and **System Architect**, driven by the challenge of creating production-level software. With a unique focus on bridging AI with system-level engineering, I strive to build tech that pushes boundaries. 
 
@@ -38,9 +35,9 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
 
 <div align="center">
   <h2>💻 Tech Arsenal</h2>
-  <p><b>Languages:</b> Python, C++, Java, Go, Rust, TypeScript, SQL</p>
+  <p><b>Languages:</b> Python, C++, Java, TypeScript, SQL</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,go,rust,sql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,sql&theme=dark" />
   </a>
   <br/><br/>
   <p><b>Frameworks, AI & Tools:</b> React, Flask, FastAPI, Machine Learning, NLP, SQLite, Git</p>
@@ -67,7 +64,7 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
     <td width="50%" valign="top">
       <h3>🤖 IRA / Aarii (AI Assistant)</h3>
       <p><i>A human-like digital companion featuring emotion-aware responses, contextual memory, and robust task execution.</i></p>
-      <b>Tech Stack:</b> <img src="https://skillicons.dev/icons?i=flask,react&theme=dark" height="20" align="center"/> + Groq API<br/><br/>
+      <b>Tech Stack:</b> <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" align="center"/>+ NLP,Groq API<br/><br/>
       <b>Impact:</b> Pushing the boundaries of human-computer interaction with memory-backed personalized models.
     </td>
   </tr>
@@ -81,7 +78,7 @@ I am a dedicated **AI Engineer** and **System Architect**, driven by the challen
     <td width="50%" valign="top">
       <h3>🔐 N-CIIA (Cyber Intelligence Platform)</h3>
       <p><i>A high-performance cybersecurity forensic tool capable of advanced packet capture and threat intel.</i></p>
-      <b>Tech Stack:</b> <img src="https://skillicons.dev/icons?i=cpp,py,java,go,rust&theme=dark" height="20" align="center"/><br/><br/>
+      <b>Tech Stack:</b> <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" height="20" align="center"/><br/><br/>
       <b>Impact:</b> Multi-language architecture demonstrating raw performance and systems-level security integration.
     </td>
   </tr>
