@@ -169,9 +169,6 @@ I operate at the deepest level of the stack — from crafting **custom compiler 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abneeshsingh21&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
 
 <br/>
 
