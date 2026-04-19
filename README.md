@@ -12,19 +12,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abneesh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abneesh-singh001)
-[![Gmail](https://img.shields.io/badge/Gmail-singhabneesh250-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhabneesh250@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3D%20Experience-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://abneeshsingh21.github.io/portfolio-abneesh/)
-[![GitHub](https://img.shields.io/badge/GitHub-abneeshsingh21-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abneeshsingh21)
-
-</div>
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF88?style=flat-square&labelColor=0d0d0d)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Systems%20Engineering-00E5FF?style=flat-square&labelColor=0d0d0d)
-![Location](https://img.shields.io/badge/Location-India%20🇮🇳-ffffff?style=flat-square&labelColor=0d0d0d)
-[![Views](https://komarev.com/ghpvc/?username=abneeshsingh21&label=Profile+Views&color=00E5FF&style=flat-square&labelColor=0d0d0d)](https://github.com/abneeshsingh21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abneesh-singh001)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singhabneesh250@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black)](https://abneeshsingh21.github.io/portfolio-abneesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/abneeshsingh21)
+![Status](https://img.shields.io/badge/Open%20to%20Opportunities-00FF88?style=flat-square&labelColor=0d0d0d)
+![Focus](https://img.shields.io/badge/AI%20%2B%20Systems%20Engineering-00E5FF?style=flat-square&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/India%20🇮🇳-ffffff?style=flat-square&labelColor=0d0d0d)
+[![Views](https://komarev.com/ghpvc/?username=abneeshsingh21&label=Views&color=00E5FF&style=flat-square&labelColor=0d0d0d)](https://github.com/abneeshsingh21)
 
 </div>
 
