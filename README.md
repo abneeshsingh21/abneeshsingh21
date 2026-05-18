@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,30:0a1628,65:0d2137,100:060810&height=260&section=header&text=Abneesh%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Founder&descSize=16&descColor=00E5FF&descAlignY=64" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=36&lines=AI+systems+%C2%B7+Compiler+engineering+%C2%B7+Developer+infrastructure;Four+production+systems+shipped.+More+in+progress;architecture+%E2%86%92+product+%E2%86%92+platform+%E2%86%92+startup" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,30:0a1628,65:0d2137,100:060810&height=240&section=header&text=Abneesh%20Singh&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=46&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Founder&descSize=15&descColor=00E5FF&descAlignY=68" width="100%" />
 </div>
 
 <br/>
@@ -14,8 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singhabneesh250@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black)](https://abneeshsingh21.github.io/portfolio-abneesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/abneeshsingh21)
-![](https://img.shields.io/badge/India%20🇮🇳-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
-[![Views](https://komarev.com/ghpvc/?username=abneeshsingh21&label=Views&color=00E5FF&style=flat-square&labelColor=0d0d0d)](https://github.com/abneeshsingh21)
+[![Views](https://komarev.com/ghpvc/?username=abneeshsingh21&label=Profile+Views&color=00E5FF&style=flat-square&labelColor=0d0d0d)](https://github.com/abneeshsingh21)
 
 </div>
 
@@ -43,56 +38,73 @@ Current trajectory:  architecture → product → platform → startup
 
 <br/>
 
-**EPL — English Programming Language**
+### EPL — English Programming Language
 
 A full programming language ecosystem designed to be readable by humans and understandable by AI — with compiler and runtime architecture, structured documentation, a live playground, and a contributor-ready open-source foundation.
 
-> Language Design · Compiler/Runtime Engineering · Ecosystem Architecture
+<kbd>Language Design</kbd> &nbsp; <kbd>Compiler Engineering</kbd> &nbsp; <kbd>Runtime Architecture</kbd> &nbsp; <kbd>Ecosystem Design</kbd>
 
-[![Playground](https://img.shields.io/badge/▶_Try_Playground-00E5FF?style=flat-square&labelColor=0d0d0d)](https://abneeshsingh21.github.io/EPL/playground.html)
-[![Docs](https://img.shields.io/badge/📖_Documentation-ffffff?style=flat-square&labelColor=0d0d0d)](https://abneeshsingh21.github.io/EPL/)
-![Status](https://img.shields.io/badge/Live-00FF88?style=flat-square&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/Python_·_C-0d0d0d?style=flat-square)
+<br/>
+
+| | |
+|---|---|
+| **Status** | ✅ Live |
+| **Stack** | Python · C |
+| **Links** | [▶ Try Playground](https://abneeshsingh21.github.io/EPL/playground.html) &nbsp;·&nbsp; [📖 Documentation](https://abneeshsingh21.github.io/EPL/) |
 
 <br/>
 
 ---
 
-**Aarii — Emotion-Aware AI Companion**
+### Aarii — Emotion-Aware AI Companion
 
 Built to close the gap between utility-first AI tools and natural human interaction. Persistent memory, contextual awareness, and emotional signal processing — designed to feel less like a chatbot and more like a presence.
 
-> NLP · Memory Architecture · Dialogue Systems · Emotional Intelligence
+<kbd>NLP</kbd> &nbsp; <kbd>Memory Architecture</kbd> &nbsp; <kbd>Dialogue Systems</kbd> &nbsp; <kbd>Emotional Intelligence</kbd>
 
-![Status](https://img.shields.io/badge/Active_Development-FFAA00?style=flat-square&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/Python_·_Groq_API_·_NLP-0d0d0d?style=flat-square)
+<br/>
+
+| | |
+|---|---|
+| **Status** | 🔄 Active Development |
+| **Stack** | Python · Groq API · NLP |
 
 <br/>
 
 ---
 
-**Hybrid Fake News Detector**
+### Hybrid Fake News Detector
 
-8,000-feature TF-IDF pipeline with ensemble voting across multiple ML models. Real-time web source verification, Gemini AI-powered credibility analysis, and a production-ready FastAPI surface — achieving 96.46% accuracy.
+8,000-feature TF-IDF pipeline with ensemble voting across multiple ML models. Real-time web source verification, Gemini AI-powered credibility analysis, and a production-ready FastAPI surface — achieving **96.46% accuracy**.
 
-> Ensemble ML · NLP · FastAPI · Real-Time Verification
+<kbd>Ensemble ML</kbd> &nbsp; <kbd>TF-IDF</kbd> &nbsp; <kbd>FastAPI</kbd> &nbsp; <kbd>Real-Time Verification</kbd> &nbsp; <kbd>Gemini AI</kbd>
 
-![Status](https://img.shields.io/badge/Complete-00FF88?style=flat-square&labelColor=0d0d0d)
-![Accuracy](https://img.shields.io/badge/Accuracy_96.46%25-00E5FF?style=flat-square&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/FastAPI_·_Streamlit_·_Gemini_AI-0d0d0d?style=flat-square)
+<br/>
+
+| | |
+|---|---|
+| **Status** | ✅ Complete |
+| **Accuracy** | 96.46% |
+| **Stack** | FastAPI · Streamlit · Scikit-Learn · Gemini AI |
 
 <br/>
 
 ---
 
-**N-CIIA — Cyber Intelligence & Analysis Platform**
+### N-CIIA — Cyber Intelligence & Analysis Platform
 
 Performance-critical C++ execution paired with Python-based intelligence workflows. Built for precision, speed, and high-signal forensic investigation at scale.
 
-> Systems Engineering · Forensics · High-Performance C++ · Intelligence Pipelines
+<kbd>Systems Engineering</kbd> &nbsp; <kbd>Forensics</kbd> &nbsp; <kbd>High-Performance C++</kbd> &nbsp; <kbd>Intelligence Pipelines</kbd>
 
-![Status](https://img.shields.io/badge/Complete-00FF88?style=flat-square&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/C++_·_Python-0d0d0d?style=flat-square)
+<br/>
+
+| | |
+|---|---|
+| **Status** | ✅ Complete |
+| **Stack** | C++ · Python |
+
+<br/>
 
 ---
 
@@ -152,21 +164,21 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=060810&title_color=00E5FF&icon_color=00E5FF&text_color=aaaaaa&ring_color=00E5FF" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=00E5FF&icon_color=00E5FF&text_color=aaaaaa&ring_color=00E5FF" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&hide_border=true&theme=tokyonight&bg_color=060810&title_color=00E5FF&text_color=aaaaaa&langs_count=8" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&hide_border=true&theme=github_dark&title_color=00E5FF&text_color=aaaaaa&langs_count=8" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abneeshsingh21&theme=tokyonight&hide_border=true&background=060810&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF&sideLabels=666666&dates=444444&stroke=00E5FF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abneeshsingh21&theme=github-dark-blue&hide_border=true&ring=00E5FF&fire=00FF88&currStreakLabel=00E5FF" width="58%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abneeshsingh21&bg_color=060810&color=00E5FF&line=00E5FF&point=00FF88&area=true&area_color=00E5FF&hide_border=true&radius=6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abneeshsingh21&theme=github-compact&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF88&area=true&hide_border=true&radius=6" width="100%" />
 </div>
 
 ---
@@ -187,12 +199,12 @@ I engage with people working on things that matter:
 
 <div align="center">
 
-| | Platform | Link |
+| Platform | Link | Purpose |
 |:---:|:---:|:---:|
-| 💼 | LinkedIn | [abneesh-singh001](https://www.linkedin.com/in/abneesh-singh001) |
-| 📧 | Email | [singhabneesh250@gmail.com](mailto:singhabneesh250@gmail.com) |
-| 🐙 | GitHub | [abneeshsingh21](https://github.com/abneeshsingh21) |
-| 🌐 | Portfolio | [Interactive Showcase](https://abneeshsingh21.github.io/portfolio-abneesh/) |
+| 💼 LinkedIn | [abneesh-singh001](https://www.linkedin.com/in/abneesh-singh001) | Professional conversation |
+| 📧 Email | [singhabneesh250@gmail.com](mailto:singhabneesh250@gmail.com) | Direct outreach |
+| 🐙 GitHub | [abneeshsingh21](https://github.com/abneeshsingh21) | Code and projects |
+| 🌐 Portfolio | [Interactive Showcase](https://abneeshsingh21.github.io/portfolio-abneesh/) | Full overview |
 
 </div>
 
@@ -204,4 +216,4 @@ I engage with people working on things that matter:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,50:0a1628,100:060810&height=120&section=footer&text=Built+for+the+future.+Shaped+like+a+startup.&fontSize=14&fontColor=00E5FF&fontAlignY=68&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,50:0a1628,100:060810&height=110&section=footer&text=Built+for+the+future.+Shaped+like+a+startup.&fontSize=13&fontColor=00E5FF&fontAlignY=68&animation=twinkling" width="100%" />
