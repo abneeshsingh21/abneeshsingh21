@@ -1,48 +1,98 @@
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Deep Space / Cyber Background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020408"/>
       <stop offset="50%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#001829"/>
     </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.1"/>
+    
+    <!-- Moving Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.1"/>
     </pattern>
+    
+    <!-- Pulsing Cyan Glow Line -->
     <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;0.5;0" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.8">
+        <animate attributeName="stop-opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;0.5;0" dur="4s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
+    
+    <!-- SVG Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
   
-  <!-- Background -->
-  <rect width="1200" height="200" fill="url(#bg)"/>
+  <!-- Background Rect -->
+  <rect width="1200" height="250" fill="url(#bg)"/>
   
-  <!-- Subtle Cyber Grid -->
-  <rect width="1200" height="200" fill="url(#grid)"/>
+  <!-- Cyber Grid with infinite scrolling animation -->
+  <rect width="1200" height="250" fill="url(#grid)">
+    <animate attributeName="y" from="-40" to="0" dur="10s" repeatCount="indefinite" />
+  </rect>
 
-  <!-- Geometric Abstract Nodes -->
+  <!-- Neural Network Connections -->
   <g stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.3" fill="none">
-    <path d="M 150 100 L 250 50 L 350 120 L 200 180 Z" />
-    <path d="M 850 80 L 950 40 L 1050 110 L 900 160 Z" />
-    <path d="M 350 120 L 500 80 L 650 130" stroke-opacity="0.1" />
-    <path d="M 650 130 L 850 80" stroke-opacity="0.1" />
+    <path id="path1" d="M 100 120 L 250 60 L 400 150 L 200 210 Z" />
+    <path id="path2" d="M 800 100 L 950 50 L 1100 140 L 900 200 Z" />
+    <path id="path3" d="M 400 150 L 600 90 L 800 100" stroke-opacity="0.1" />
   </g>
 
-  <!-- Glowing Intersection Points -->
-  <circle cx="150" cy="100" r="2" fill="#00E5FF" opacity="0.6"/>
-  <circle cx="250" cy="50" r="1.5" fill="#00E5FF" opacity="0.4"/>
-  <circle cx="350" cy="120" r="2.5" fill="#00E5FF" opacity="0.8"/>
-  <circle cx="200" cy="180" r="2" fill="#00E5FF" opacity="0.5"/>
-  
-  <circle cx="850" cy="80" r="2.5" fill="#00E5FF" opacity="0.8"/>
-  <circle cx="950" cy="40" r="1.5" fill="#00E5FF" opacity="0.4"/>
-  <circle cx="1050" cy="110" r="2" fill="#00E5FF" opacity="0.6"/>
-  <circle cx="900" cy="160" r="2" fill="#00E5FF" opacity="0.5"/>
-  
-  <circle cx="500" cy="80" r="1" fill="#ffffff" opacity="0.3"/>
-  <circle cx="650" cy="130" r="1" fill="#ffffff" opacity="0.3"/>
+  <!-- Animated Data Packets (Dots moving along paths) -->
+  <circle r="2" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M 100 120 L 250 60 L 400 150 L 200 210 Z" />
+  </circle>
+  <circle r="2" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M 800 100 L 950 50 L 1100 140 L 900 200 Z" />
+  </circle>
+  <circle r="1.5" fill="#00E5FF" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 400 150 L 600 90 L 800 100" />
+  </circle>
 
-  <!-- High-end Accent Line -->
-  <rect x="0" y="198" width="1200" height="2" fill="url(#cyan-glow)"/>
+  <!-- Pulsing Nodes -->
+  <circle cx="100" cy="120" r="3" fill="#00E5FF" filter="url(#glow)">
+    <animate attributeName="r" values="2;5;2" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="250" cy="60" r="2" fill="#00E5FF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="400" cy="150" r="4" fill="#00E5FF" filter="url(#glow)">
+    <animate attributeName="r" values="3;6;3" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="200" cy="210" r="2" fill="#00E5FF" opacity="0.6"/>
+  
+  <circle cx="800" cy="100" r="3" fill="#00E5FF" filter="url(#glow)">
+    <animate attributeName="r" values="2;4;2" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="950" cy="50" r="2" fill="#00E5FF">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1100" cy="140" r="3" fill="#00E5FF" filter="url(#glow)"/>
+  <circle cx="900" cy="200" r="2.5" fill="#00E5FF" opacity="0.5"/>
+  
+  <circle cx="600" cy="90" r="1.5" fill="#ffffff" opacity="0.5">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="2s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Embedded Hero Typography -->
+  <!-- Name with elegant tracking -->
+  <text x="600" y="130" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle" letter-spacing="6">ABNEESH SINGH</text>
+  
+  <!-- Glowing Role Subtitle -->
+  <text x="600" y="170" font-family="monospace" font-weight="600" font-size="16" fill="#00E5FF" text-anchor="middle" letter-spacing="3" filter="url(#glow)">AI SECURITY ENGINEER &amp; SYSTEMS ARCHITECT</text>
+
+  <!-- Bottom Glowing Accent Line -->
+  <rect x="0" y="248" width="1200" height="2" fill="url(#cyan-glow)"/>
 </svg>
