@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/enterprise_ai_banner.png" alt="AI Systems Architecture" width="100%" />
+  <img src="assets/banner.svg" alt="AI Systems Architecture" width="100%" />
 </div>
 
 <br/>
