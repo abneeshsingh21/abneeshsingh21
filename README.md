@@ -20,14 +20,14 @@
 
 <br/>
 
-| ⚡ [LangShift — Enterprise AI Code Transpiler](https://github.com/abneeshsingh21/LangShift) |
+| ⚡ [LangShift — Enterprise AI Code Transpiler](https://github.com/abneeshsingh21/LangShift-Extension-) |
 | :--- |
 | Drove development of a VS Code Marketplace extension converting code across 25 programming languages via 6 AI providers with a two-pass self-healing pipeline and compiler validation. Implemented HIPAA/GDPR compliant data scrubbing, SHA-256 caching (reducing conversion time by 90%), atomic file backup, and JSON audit logs. |
 | <kbd>Compiler Architecture</kbd> &nbsp; <kbd>Multi-LLM Pipeline</kbd> &nbsp; <kbd>System Caching</kbd> &nbsp; <kbd>HIPAA/GDPR Compliance</kbd> |
 
 <br/>
 
-| 🧠 [NeuroShell — Intelligent AI Terminal](https://github.com/abneeshsingh21/NeuroShell) |
+| 🧠 [NeuroShell — Intelligent AI Terminal](https://github.com/abneeshsingh21/neuroshell) |
 | :--- |
 | Spearheaded development of a hybrid C++ and Python engine for natural language to shell command translation, supporting 6 LLM providers with smart cloud-to-local fallback. Delivered a 2,500-phrase machine learning offline engine, a 4-layer safety system, PII scrubbing, and a desktop monitoring dashboard backed by 85 automated tests. |
 | <kbd>C++ / Python</kbd> &nbsp; <kbd>NLP</kbd> &nbsp; <kbd>Systems Architecture</kbd> &nbsp; <kbd>Automated Testing</kbd> |
