@@ -66,6 +66,8 @@
 
 ## ⸻ Engineering Standard
 
+> *My engineering philosophy is precision through abstraction — removing every layer of unnecessary complexity between a user's intent and the system's execution.*
+
 I approach every system with the same question: *what would it take for this to be a product?*<br/>
 Technical depth earns nothing if the system cannot be used, understood, or extended by someone who was not in the room when it was built. I focus on architecture that survives changes, packaging that installs cleanly, and APIs designed for developers.
 
