@@ -13,7 +13,7 @@
 
 ## ⸻ Engineering Projects
 
-| 🛡️ [GHOST — Autonomous Security Agent](https://github.com/abneeshsingh21/GHOST) |
+| 🛡️ GHOST — Autonomous Security Agent 🔒 |
 | :--- |
 | Owned end-to-end development of an autonomous security agent supporting 3 local LLM models with adaptive stealth. Achieved fully air-gapped operation, completely eliminating all external API dependencies for secure, isolated environments. |
 | <kbd>Local LLMs</kbd> &nbsp; <kbd>Air-Gapped Systems</kbd> &nbsp; <kbd>Security Engineering</kbd> &nbsp; <kbd>Autonomous Agents</kbd> |
