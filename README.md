@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="assets/enterprise_ai_banner.png" alt="AI Systems Architecture" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <h1>Abneesh Singh</h1>
   <p><b>AI Security Engineer & Systems Architect</b></p>
   <p><i>Designing and scaling enterprise AI pipelines, autonomous agents, and high-performance compilation ecosystems.</i></p>
@@ -22,7 +28,7 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 
 ## ⸻ Production Systems & Experience
 
-### GHOST — Autonomous Security Agent
+### ◈ GHOST — Autonomous Security Agent
 **AI Security Engineer**
 > Owned end-to-end development of an autonomous security agent supporting 3 local LLM models with adaptive stealth. Achieved fully air-gapped operation, eliminating all external API dependencies for secure, isolated environments.
 
@@ -30,7 +36,7 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 
 <br/>
 
-### LangShift — Enterprise AI Code Transpiler
+### ◈ LangShift — Enterprise AI Code Transpiler
 **Lead Engineer**
 > Drove development of a VS Code Marketplace extension converting code across 25 programming languages via 6 AI providers with a two-pass self-healing pipeline and compiler validation. Implemented HIPAA/GDPR compliant data scrubbing, SHA-256 caching (reducing conversion time by 90%), atomic file backup, and JSON audit logs.
 
@@ -38,7 +44,7 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 
 <br/>
 
-### NeuroShell — Intelligent AI Terminal
+### ◈ NeuroShell — Intelligent AI Terminal
 **Systems Architect**
 > Spearheaded development of a hybrid C++ and Python engine for natural language to shell command translation, supporting 6 LLM providers with smart cloud-to-local fallback. Delivered a 2,500-phrase machine learning offline engine, a 4-layer safety system, PII scrubbing, and a desktop monitoring dashboard backed by 85 automated tests.
 
@@ -46,7 +52,7 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 
 <br/>
 
-### EPL — English Programming Language
+### ◈ EPL — English Programming Language
 **Founder and Lead Engineer**
 > Led the design and development of a programming language installable via pip, supporting OOP, REST APIs, and cloud-native deployment to Kubernetes/AWS ECS, achieving 4,000+ downloads globally. Architected 7 compilation backends (LLVM, Wasm, Bytecode VM, JS, Kotlin, Python, Interpreter) and shipped a VS Code extension with language server support.
 
@@ -54,7 +60,7 @@ Technical depth earns nothing if the system cannot be used, understood, or exten
 
 <br/>
 
-### NCIIA — Cyber Intelligence Platform
+### ◈ NCIIA — Cyber Intelligence Platform
 **Systems Architect**
 > Established an enterprise monorepo with a high-performance C++ backend processing over 10,000 hashing operations per second. Built a React and Three.js 3D visualization dashboard for live geospatial threat mapping across 50 data sources.
 
@@ -90,9 +96,11 @@ I engage with people working on things that matter:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abneeshsingh21&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abneeshsingh21&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&langs_count=6" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/abneeshsingh21/abneeshsingh21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 <br/>
