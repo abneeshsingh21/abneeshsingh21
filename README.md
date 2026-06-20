@@ -15,7 +15,6 @@
 
 | 🛡️ GHOST — Autonomous Security Agent |
 | :--- |
-| **Role:** AI Security Engineer |
 | Owned end-to-end development of an autonomous security agent supporting 3 local LLM models with adaptive stealth. Achieved fully air-gapped operation, completely eliminating all external API dependencies for secure, isolated environments. |
 | <kbd>Local LLMs</kbd> &nbsp; <kbd>Air-Gapped Systems</kbd> &nbsp; <kbd>Security Engineering</kbd> &nbsp; <kbd>Autonomous Agents</kbd> |
 
@@ -23,7 +22,6 @@
 
 | ⚡ LangShift — Enterprise AI Code Transpiler |
 | :--- |
-| **Role:** Lead Engineer |
 | Drove development of a VS Code Marketplace extension converting code across 25 programming languages via 6 AI providers with a two-pass self-healing pipeline and compiler validation. Implemented HIPAA/GDPR compliant data scrubbing, SHA-256 caching (reducing conversion time by 90%), atomic file backup, and JSON audit logs. |
 | <kbd>Compiler Architecture</kbd> &nbsp; <kbd>Multi-LLM Pipeline</kbd> &nbsp; <kbd>System Caching</kbd> &nbsp; <kbd>HIPAA/GDPR Compliance</kbd> |
 
@@ -31,7 +29,6 @@
 
 | 🧠 NeuroShell — Intelligent AI Terminal |
 | :--- |
-| **Role:** Systems Architect |
 | Spearheaded development of a hybrid C++ and Python engine for natural language to shell command translation, supporting 6 LLM providers with smart cloud-to-local fallback. Delivered a 2,500-phrase machine learning offline engine, a 4-layer safety system, PII scrubbing, and a desktop monitoring dashboard backed by 85 automated tests. |
 | <kbd>C++ / Python</kbd> &nbsp; <kbd>NLP</kbd> &nbsp; <kbd>Systems Architecture</kbd> &nbsp; <kbd>Automated Testing</kbd> |
 
@@ -39,7 +36,6 @@
 
 | 💻 EPL — English Programming Language |
 | :--- |
-| **Role:** Founder and Lead Engineer |
 | Led the design and development of a programming language installable via pip, supporting OOP, REST APIs, and cloud-native deployment to Kubernetes and AWS ECS, achieving 4,000+ downloads globally. Architected 7 compilation backends (LLVM, Wasm, Bytecode VM, JS, Kotlin, Python, Interpreter) and shipped a VS Code extension with language server support. |
 | <kbd>Language Design</kbd> &nbsp; <kbd>Compiler Engineering (LLVM/Wasm)</kbd> &nbsp; <kbd>Cloud-Native (K8s/AWS ECS)</kbd> |
 
@@ -47,7 +43,6 @@
 
 | 🌍 NCIIA — Cyber Intelligence Platform |
 | :--- |
-| **Role:** Systems Architect |
 | Established an enterprise monorepo with a high-performance C++ backend processing over 10,000 hashing operations per second. Built a React and Three.js 3D visualization dashboard for live geospatial threat mapping across 50 data sources. |
 | <kbd>High-Performance C++</kbd> &nbsp; <kbd>React & Three.js</kbd> &nbsp; <kbd>Geospatial Mapping</kbd> &nbsp; <kbd>Enterprise Monorepo</kbd> |
 
