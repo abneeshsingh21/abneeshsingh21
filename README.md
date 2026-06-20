@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-## ⸻ Production Systems & Engineering Experience
+## ⸻ Engineering Projects
 
 | 🛡️ [GHOST — Autonomous Security Agent](https://github.com/abneeshsingh21/GHOST) |
 | :--- |
