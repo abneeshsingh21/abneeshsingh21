@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/abneesh-singh001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:singhabneesh250@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/abneeshsingh21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://victorious-tree-08a2a0900.7.azurestaticapps.net/" target="_blank"><img src="https://img.shields.io/badge/Interactive_Portfolio-000000?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF" alt="Portfolio" /></a>
+  <a href="https://portfolio-landing-page-virid.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Interactive_Portfolio-000000?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF" alt="Portfolio" /></a>
 </div>
 <br/>
 
