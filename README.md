@@ -50,8 +50,8 @@
 
 ## ⸻ Technical Core
 
-**Languages:** Python, Java, SQL, EPL (Creator)<br/>
-**Generative AI:** Prompt Engineering, Agentic Workflows, Multi-LLM Orchestration (OpenAI, Anthropic, Gemini, Groq, Ollama), NLP, Scikit-Learn<br/>
+**Languages:** Python, C++, JAVA , SQL, EPL (Creator)<br/>
+**Generative AI:** Prompt Engineering, Agentic Workflows, Multi-LLM Orchestration <br/>
 **Infrastructure:** Docker, Kubernetes, AWS ECS, Azure, CI/CD, FastAPI, REST APIs, Git<br/>
 **Practices:** Agile, System Design, DevOps, HIPAA & GDPR Compliance, Technical Leadership
 
